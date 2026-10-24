@@ -86,7 +86,9 @@ Full-stack AI Software Engineer based in Auckland, New Zealand. I build producti
     <td width="280"></td>
   </tr>
 </table>
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/nyanlinhtut?theme=dark" alt="LeetCode Stats"/>
+</p>
 ---
 
 <p align="center">See the full interactive portfolio at <a href="https://nyanlinhtut.com">nyanlinhtut.com</a></p>
