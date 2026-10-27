@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://nyanlinhtut.com"><img src="https://img.shields.io/badge/Website-nyanlinhtut.com-FF6B6B?style=flat-square" /></a>
   <a href="https://www.linkedin.com/in/nyanlinhtut0606/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/htutsy.rain/"><img src="https://img.shields.io/badge/Instagram-@htutsy.rain-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 Full-stack AI Software Engineer based in Auckland, New Zealand. I build production-grade AI agents and full-stack applications — from real-time moderation systems to AI concierge platforms — and enjoy speaking at tech conferences about agentic AI and cloud architecture. Outside of code, I'm into cloud, data, music, and the occasional cooking video.
