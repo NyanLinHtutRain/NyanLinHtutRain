@@ -15,11 +15,11 @@ Full-stack AI Software Engineer based in Auckland, New Zealand. I build producti
 
 <table>
   <tr>
-    <td align="center" valign="top" width="150"><img src="https://nyanlinhtut.com/images/works/wiseboys-badge.png" width="110" height="110" style="border-radius:50%"/><br/><b>Wise Boys</b><br/><sub>Vegan Burger<br/>Restaurant, Auckland</sub></td>
-    <td align="center" valign="top" width="150"><img src="https://nyanlinhtut.com/images/works/trusted-zyzy.jpg" width="110" height="110" style="border-radius:50%"/><br/><b>caster ZyZy</b><br/><sub>834K subs</sub></td>
-    <td align="center" valign="top" width="150"><img src="https://nyanlinhtut.com/images/works/trusted-bztv.jpg" width="110" height="110" style="border-radius:50%"/><br/><b>BZTV</b><br/><sub>459K subs</sub></td>
-    <td align="center" valign="top" width="150"><img src="https://nyanlinhtut.com/images/works/trusted-bokyar.jpg" width="110" height="110" style="border-radius:50%"/><br/><b>Bo Kyar Channel</b><br/><sub>557K subs</sub></td>
-    <td align="center" valign="top" width="150"><img src="https://nyanlinhtut.com/images/works/trusted-unitedshow.jpg" width="110" height="110" style="border-radius:50%"/><br/><b>The United Show</b><br/><sub>421K subs</sub></td>
+    <td align="center" valign="top" width="150"><img src="https://nyanlinhtut.com/images/works/wiseboys-badge.png" width="110" height="110" style="border-radius:50%"/><br/><b>Wise Boys</b><br/>Vegan Burger<br/>Restaurant, Auckland</td>
+    <td align="center" valign="top" width="150"><img src="https://nyanlinhtut.com/images/works/trusted-zyzy.jpg" width="110" height="110" style="border-radius:50%"/><br/><b>caster ZyZy</b><br/>834K subs</td>
+    <td align="center" valign="top" width="150"><img src="https://nyanlinhtut.com/images/works/trusted-bztv.jpg" width="110" height="110" style="border-radius:50%"/><br/><b>BZTV</b><br/>459K subs</td>
+    <td align="center" valign="top" width="150"><img src="https://nyanlinhtut.com/images/works/trusted-bokyar.jpg" width="110" height="110" style="border-radius:50%"/><br/><b>Bo Kyar Channel</b><br/>557K subs</td>
+    <td align="center" valign="top" width="150"><img src="https://nyanlinhtut.com/images/works/trusted-unitedshow.jpg" width="110" height="110" style="border-radius:50%"/><br/><b>The United Show</b><br/>421K subs</td>
   </tr>
 </table>
 
@@ -32,29 +32,29 @@ Full-stack AI Software Engineer based in Auckland, New Zealand. I build producti
     <td align="center" valign="top" width="280">
       <a href="https://nyanlinhtut.com/works/ytmoderator"><img src="github-profile-assets/moderator-agent.png" width="260"/></a><br/>
       <b>Moderator Agent</b><br/>
-      <sub>Real-time AI moderation for YouTube<br/>live chat, running in production on<br/>channels with hundreds of thousands<br/>of subscribers.</sub>
+      Real-time AI moderation for YouTube<br/>live chat, running in production on<br/>channels with hundreds of thousands<br/>of subscribers.
     </td>
     <td align="center" valign="top" width="280">
       <a href="https://nyanlinhtut.com/works/wiseboys"><img src="github-profile-assets/wise-boys.png" width="260"/></a><br/>
       <b>Wise Boys</b><br/>
-      <sub>End-to-end website migration &<br/>AWS/Cloudflare infrastructure for a<br/>famous Auckland vegan burger brand.</sub>
+      End-to-end website migration &<br/>AWS/Cloudflare infrastructure for a<br/>famous Auckland vegan burger brand.
     </td>
     <td align="center" valign="top" width="280">
       <a href="https://nyanlinhtut.com/works/hostflowai"><img src="github-profile-assets/hostflow-ai.png" width="260"/></a><br/>
       <b>HostFlow AI</b><br/>
-      <sub>AI guest concierge for hotels &<br/>short-term rentals, powered by a<br/>multi-agent pipeline on Google ADK<br/>& Gemini.</sub>
+      AI guest concierge for hotels &<br/>short-term rentals, powered by a<br/>multi-agent pipeline on Google ADK<br/>& Gemini.
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="280">
       <a href="https://nyanlinhtut.com/works/melofy"><img src="github-profile-assets/melofy.png" width="260"/></a><br/>
       <b>Melofy</b><br/>
-      <sub>AI-powered smart playlist generator<br/>for Spotify based on your mood &<br/>taste.</sub>
+      AI-powered smart playlist generator<br/>for Spotify based on your mood &<br/>taste.
     </td>
     <td align="center" valign="top" width="280">
       <a href="https://www.youtube.com/@raininthekitchen/videos"><img src="github-profile-assets/rain-in-the-kitchen.png" width="260"/></a><br/>
       <b>Rain in the Kitchen</b><br/>
-      <sub>My YouTube channel — cooking<br/>content.</sub>
+      My YouTube channel — cooking<br/>content.
     </td>
     <td valign="top" width="280"></td>
   </tr>
@@ -69,24 +69,24 @@ Full-stack AI Software Engineer based in Auckland, New Zealand. I build producti
     <td align="center" valign="top" width="400">
       <a href="https://nyanlinhtut.com/works/devfest-singapore-2025"><img src="github-profile-assets/devfest-singapore.png" width="380"/></a><br/>
       <b>DevFest Singapore 2025</b><br/>
-      <sub>Underrated features of Google AI<br/>Studio & Gemini Enterprise · Nov 22, 2025</sub>
+      Underrated features of Google AI<br/>Studio & Gemini Enterprise · Nov 22, 2025
     </td>
     <td align="center" valign="top" width="400">
       <a href="https://nyanlinhtut.com/works/build-with-ai-gdg-kl"><img src="github-profile-assets/build-with-ai-gdg-kl.png" width="380"/></a><br/>
       <b>Build with AI, GDG Kuala Lumpur</b><br/>
-      <sub>Serverless Agents: Running AI<br/>Agents on Google Cloud Run · Apr 9, 2026</sub>
+      Serverless Agents: Running AI<br/>Agents on Google Cloud Run · Apr 9, 2026
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="400">
       <a href="https://nyanlinhtut.com/works/aws-community-day-malaysia-2025"><img src="github-profile-assets/aws-community-day.png" width="380"/></a><br/>
       <b>AWS Community Day Malaysia 2025</b><br/>
-      <sub>Building Smarter AWS Agents with<br/>MCP & Bedrock AgentCore Gateway · Sep 27, 2025</sub>
+      Building Smarter AWS Agents with<br/>MCP & Bedrock AgentCore Gateway · Sep 27, 2025
     </td>
     <td align="center" valign="top" width="400">
       <a href="https://nyanlinhtut.com/works/build-with-ai-workshop-gdg-upm"><img src="github-profile-assets/build-with-ai-workshop.png" width="380"/></a><br/>
       <b>Build with AI Workshop, GDG UPM</b><br/>
-      <sub>Steering the Model: crafting better<br/>AI prompts · May 10, 2026</sub>
+      Steering the Model: crafting better<br/>AI prompts · May 10, 2026
     </td>
   </tr>
 </table>
@@ -102,18 +102,18 @@ Full-stack AI Software Engineer based in Auckland, New Zealand. I build producti
     <td align="center" valign="top" width="280"><a href="https://www.credly.com/badges/2d6ae320-81df-41f1-9541-f7bd003e7aac/public_url"><img src="github-profile-assets/aws-solutions-architect.png" width="260"/></a><br/><b>AWS Certified Solutions<br/>Architect</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="280"><a href="https://learn.deeplearning.ai/accomplishments/50255d84-26c4-43c7-b186-49f9a59cf01a?usp=sharing"><img src="github-profile-assets/langgraph.png" width="260"/></a><br/><b>AI Agents in LangGraph</b><br/><sub>DeepLearning.AI</sub></td>
-    <td align="center" valign="top" width="280"><a href="https://learn.deeplearning.ai/accomplishments/b0f829c0-063a-4e16-aea9-4fcf9435da77?usp=sharing"><img src="github-profile-assets/langchain.png" width="260"/></a><br/><b>LangChain for LLM App Dev</b><br/><sub>DeepLearning.AI</sub></td>
-    <td align="center" valign="top" width="280"><a href="https://www.theforage.com/simulations/jpmorgan/advanced-software-engineering-r0fm"><img src="github-profile-assets/jpmorgan.png" width="260"/></a><br/><b>JPMorgan Chase SWE</b><br/><sub>Work Simulation</sub></td>
+    <td align="center" valign="top" width="280"><a href="https://learn.deeplearning.ai/accomplishments/50255d84-26c4-43c7-b186-49f9a59cf01a?usp=sharing"><img src="github-profile-assets/langgraph.png" width="260"/></a><br/><b>AI Agents in LangGraph</b><br/>DeepLearning.AI</td>
+    <td align="center" valign="top" width="280"><a href="https://learn.deeplearning.ai/accomplishments/b0f829c0-063a-4e16-aea9-4fcf9435da77?usp=sharing"><img src="github-profile-assets/langchain.png" width="260"/></a><br/><b>LangChain for LLM App Dev</b><br/>DeepLearning.AI</td>
+    <td align="center" valign="top" width="280"><a href="https://www.theforage.com/simulations/jpmorgan/advanced-software-engineering-r0fm"><img src="github-profile-assets/jpmorgan.png" width="260"/></a><br/><b>JPMorgan Chase SWE</b><br/>Work Simulation</td>
   </tr>
   <tr>
     <td align="center" valign="top" width="280"><a href="https://www.talentgeist.com/worksimulationprogram"><img src="github-profile-assets/grabfin.png" width="260"/></a><br/><b>GrabFin Marketing<br/>Simulation</b></td>
-    <td align="center" valign="top" width="280"><a href="https://www.hackerrank.com/certificates/b2f198b57f61"><img src="github-profile-assets/hackerrank.png" width="260"/></a><br/><b>Software Engineer Intern</b><br/><sub>HackerRank</sub></td>
-    <td align="center" valign="top" width="280"><a href="https://udemy-certificate.s3.amazonaws.com/image/UC-c4d3cf8d-f30b-4aa5-a314-8fbd177d2575.jpg"><img src="github-profile-assets/udemy-swift.png" width="260"/></a><br/><b>iOS & Swift Bootcamp</b><br/><sub>Udemy</sub></td>
+    <td align="center" valign="top" width="280"><a href="https://www.hackerrank.com/certificates/b2f198b57f61"><img src="github-profile-assets/hackerrank.png" width="260"/></a><br/><b>Software Engineer Intern</b><br/>HackerRank</td>
+    <td align="center" valign="top" width="280"><a href="https://udemy-certificate.s3.amazonaws.com/image/UC-c4d3cf8d-f30b-4aa5-a314-8fbd177d2575.jpg"><img src="github-profile-assets/udemy-swift.png" width="260"/></a><br/><b>iOS & Swift Bootcamp</b><br/>Udemy</td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="280"><img src="github-profile-assets/mdp-1st-prize.png" width="260"/><br/><b>First Prize</b><br/><sub>Multidisciplinary Project<br/>Event, JCU</sub></td>
-    <td align="center" valign="top" width="280"><img src="github-profile-assets/testamur.png" width="260"/><br/><b>Bachelor of IT</b><br/><sub>James Cook University</sub></td>
+    <td align="center" valign="top" width="280"><img src="github-profile-assets/mdp-1st-prize.png" width="260"/><br/><b>First Prize</b><br/>Multidisciplinary Project<br/>Event, JCU</td>
+    <td align="center" valign="top" width="280"><img src="github-profile-assets/testamur.png" width="260"/><br/><b>Bachelor of IT</b><br/>James Cook University</td>
     <td valign="top" width="280"></td>
   </tr>
 </table>
