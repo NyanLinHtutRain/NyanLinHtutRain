@@ -11,6 +11,33 @@ Full-stack AI Software Engineer based in Auckland, New Zealand. I build producti
 
 ---
 
+### 🧰 Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Software_Development-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scrum-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agile-4B5563?style=for-the-badge" />
+</p>
+
+---
+
 ### 🤝 Trusted By
 
 <table>
@@ -57,6 +84,37 @@ Full-stack AI Software Engineer based in Auckland, New Zealand. I build producti
       <sub>My YouTube channel — cooking content.</sub>
     </td>
     <td width="280"></td>
+  </tr>
+</table>
+
+---
+
+### 🎤 Tech Conference Speaking
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="280">
+      <a href="https://nyanlinhtut.com/works/devfest-singapore-2025"><img src="github-profile-assets/devfest-singapore.png" width="260"/></a><br/>
+      <b>DevFest Singapore 2025</b><br/>
+      <sub>Underrated features of Google AI Studio & Gemini Enterprise · Nov 22, 2025</sub>
+    </td>
+    <td align="center" valign="top" width="280">
+      <a href="https://nyanlinhtut.com/works/build-with-ai-gdg-kl"><img src="github-profile-assets/build-with-ai-gdg-kl.png" width="260"/></a><br/>
+      <b>Build with AI, GDG Kuala Lumpur</b><br/>
+      <sub>Serverless Agents: Running AI Agents on Google Cloud Run · Apr 9, 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="280">
+      <a href="https://nyanlinhtut.com/works/aws-community-day-malaysia-2025"><img src="github-profile-assets/aws-community-day.png" width="260"/></a><br/>
+      <b>AWS Community Day Malaysia 2025</b><br/>
+      <sub>Building Smarter AWS Agents with MCP & Bedrock AgentCore Gateway · Sep 27, 2025</sub>
+    </td>
+    <td align="center" valign="top" width="280">
+      <a href="https://nyanlinhtut.com/works/build-with-ai-workshop-gdg-upm"><img src="github-profile-assets/build-with-ai-workshop.png" width="260"/></a><br/>
+      <b>Build with AI Workshop, GDG UPM</b><br/>
+      <sub>Steering the Model: crafting better AI prompts · May 10, 2026</sub>
+    </td>
   </tr>
 </table>
 
