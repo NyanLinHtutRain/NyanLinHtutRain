@@ -13,7 +13,7 @@ Full-stack AI Software Engineer based in Auckland, New Zealand. I build producti
 
 ### 🤝 Trusted By
 
-<table style="width:100%">
+<table width="100%">
   <tr>
     <td align="center" valign="top" width="20%"><img src="https://nyanlinhtut.com/images/works/wiseboys-badge.png" width="80" height="80" style="border-radius:50%"/><br/><b>Wise Boys</b><br/><sub>Vegan Burger Restaurant, Auckland</sub></td>
     <td align="center" valign="top" width="20%"><img src="https://nyanlinhtut.com/images/works/trusted-zyzy.jpg" width="80" height="80" style="border-radius:50%"/><br/><b>caster ZyZy</b><br/><sub>834K subs</sub></td>
@@ -64,7 +64,7 @@ Full-stack AI Software Engineer based in Auckland, New Zealand. I build producti
 
 ### 🎤 Tech Conference Speaking
 
-<table style="width:100%">
+<table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://nyanlinhtut.com/works/devfest-singapore-2025"><img src="github-profile-assets/devfest-singapore.png" width="100%"/></a><br/>
@@ -122,36 +122,36 @@ Full-stack AI Software Engineer based in Auckland, New Zealand. I build producti
 
 ### 🧰 Skills
 
-<table style="width:100%">
+<table width="100%">
   <tr>
-    <td align="center" valign="top" width="25%"><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.simpleicons.org/csharp/239120" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><b>C#</b></a></td>
-    <td align="center" valign="top" width="25%"><a href="https://dotnet.microsoft.com/"><img src="https://cdn.simpleicons.org/dotnet/512BD4" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://dotnet.microsoft.com/"><b>.NET</b></a></td>
-    <td align="center" valign="top" width="25%"><a href="https://www.oracle.com/java/"><img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://www.oracle.com/java/"><b>Java</b></a></td>
-    <td align="center" valign="top" width="25%"><a href="https://en.wikipedia.org/wiki/Object-oriented_programming"><img src="https://api.iconify.design/mdi:code-braces.svg?color=%2338BDF8" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://en.wikipedia.org/wiki/Object-oriented_programming"><b>OOP</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="github-profile-assets/skill-csharp.png" width="56" height="56"/></a><br/><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><b>C#</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://dotnet.microsoft.com/"><img src="github-profile-assets/skill-dotnet.png" width="56" height="56"/></a><br/><a href="https://dotnet.microsoft.com/"><b>.NET</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://www.oracle.com/java/"><img src="github-profile-assets/skill-java.png" width="56" height="56"/></a><br/><a href="https://www.oracle.com/java/"><b>Java</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://en.wikipedia.org/wiki/Object-oriented_programming"><img src="github-profile-assets/skill-oop.png" width="56" height="56"/></a><br/><a href="https://en.wikipedia.org/wiki/Object-oriented_programming"><b>OOP</b></a></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="25%"><a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://www.typescriptlang.org/"><b>TypeScript</b></a></td>
-    <td align="center" valign="top" width="25%"><a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react/61DAFB" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://react.dev/"><b>React</b></a></td>
-    <td align="center" valign="top" width="25%"><a href="https://en.wikipedia.org/wiki/Software_development"><img src="https://api.iconify.design/mdi:application-cog.svg?color=%2334D399" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://en.wikipedia.org/wiki/Software_development"><b>Software Development</b></a></td>
-    <td align="center" valign="top" width="25%"><a href="https://en.wikipedia.org/wiki/Cloud_computing"><img src="https://api.iconify.design/mdi:cloud.svg?color=%2338BDF8" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://en.wikipedia.org/wiki/Cloud_computing"><b>Cloud</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://www.typescriptlang.org/"><img src="github-profile-assets/skill-typescript.png" width="56" height="56"/></a><br/><a href="https://www.typescriptlang.org/"><b>TypeScript</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://react.dev/"><img src="github-profile-assets/skill-react.png" width="56" height="56"/></a><br/><a href="https://react.dev/"><b>React</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://en.wikipedia.org/wiki/Software_development"><img src="github-profile-assets/skill-softwaredev.png" width="56" height="56"/></a><br/><a href="https://en.wikipedia.org/wiki/Software_development"><b>Software Development</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://en.wikipedia.org/wiki/Cloud_computing"><img src="github-profile-assets/skill-cloud.png" width="56" height="56"/></a><br/><a href="https://en.wikipedia.org/wiki/Cloud_computing"><b>Cloud</b></a></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="25%"><a href="https://aws.amazon.com/"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://aws.amazon.com/"><b>AWS</b></a></td>
-    <td align="center" valign="top" width="25%"><a href="https://cloud.google.com/"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://cloud.google.com/"><b>GCP</b></a></td>
-    <td align="center" valign="top" width="25%"><a href="https://www.terraform.io/"><img src="https://cdn.simpleicons.org/terraform/7B42BC" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://www.terraform.io/"><b>Terraform</b></a></td>
-    <td align="center" valign="top" width="25%"><a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://www.docker.com/"><b>Docker</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://aws.amazon.com/"><img src="github-profile-assets/skill-aws.png" width="56" height="56"/></a><br/><a href="https://aws.amazon.com/"><b>AWS</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://cloud.google.com/"><img src="github-profile-assets/skill-gcp.png" width="56" height="56"/></a><br/><a href="https://cloud.google.com/"><b>GCP</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://www.terraform.io/"><img src="github-profile-assets/skill-terraform.png" width="56" height="56"/></a><br/><a href="https://www.terraform.io/"><b>Terraform</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://www.docker.com/"><img src="github-profile-assets/skill-docker.png" width="56" height="56"/></a><br/><a href="https://www.docker.com/"><b>Docker</b></a></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="25%"><a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://github.com/"><b>GitHub</b></a></td>
-    <td align="center" valign="top" width="25%"><a href="https://en.wikipedia.org/wiki/REST"><img src="https://api.iconify.design/mdi:api.svg?color=%23F59E0B" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://en.wikipedia.org/wiki/REST"><b>REST API</b></a></td>
-    <td align="center" valign="top" width="25%"><a href="https://en.wikipedia.org/wiki/SQL"><img src="https://api.iconify.design/mdi:database.svg?color=%2322D3EE" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://en.wikipedia.org/wiki/SQL"><b>SQL</b></a></td>
-    <td align="center" valign="top" width="25%"><a href="https://kafka.apache.org/"><img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://kafka.apache.org/"><b>Kafka</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://github.com/"><img src="github-profile-assets/skill-github.png" width="56" height="56"/></a><br/><a href="https://github.com/"><b>GitHub</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://en.wikipedia.org/wiki/REST"><img src="github-profile-assets/skill-restapi.png" width="56" height="56"/></a><br/><a href="https://en.wikipedia.org/wiki/REST"><b>REST API</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://en.wikipedia.org/wiki/SQL"><img src="github-profile-assets/skill-sql.png" width="56" height="56"/></a><br/><a href="https://en.wikipedia.org/wiki/SQL"><b>SQL</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://kafka.apache.org/"><img src="github-profile-assets/skill-kafka.png" width="56" height="56"/></a><br/><a href="https://kafka.apache.org/"><b>Kafka</b></a></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="25%"><a href="https://en.wikipedia.org/wiki/Systems_design"><img src="https://api.iconify.design/mdi:sitemap.svg?color=%23A78BFA" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://en.wikipedia.org/wiki/Systems_design"><b>System Design</b></a></td>
-    <td align="center" valign="top" width="25%"><a href="https://en.wikipedia.org/wiki/Microservices"><img src="https://api.iconify.design/mdi:puzzle.svg?color=%23FB7185" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://en.wikipedia.org/wiki/Microservices"><b>Microservices</b></a></td>
-    <td align="center" valign="top" width="25%"><a href="https://www.scrum.org/"><img src="https://api.iconify.design/mdi:calendar-refresh.svg?color=%23FBBF24" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://www.scrum.org/"><b>Scrum</b></a></td>
-    <td align="center" valign="top" width="25%"><a href="https://agilemanifesto.org/"><img src="https://api.iconify.design/mdi:infinity.svg?color=%234ADE80" width="56" height="56" style="background:#1c1e26;border-radius:16px;padding:14px"/></a><br/><a href="https://agilemanifesto.org/"><b>Agile</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://en.wikipedia.org/wiki/Systems_design"><img src="github-profile-assets/skill-systemdesign.png" width="56" height="56"/></a><br/><a href="https://en.wikipedia.org/wiki/Systems_design"><b>System Design</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://en.wikipedia.org/wiki/Microservices"><img src="github-profile-assets/skill-microservices.png" width="56" height="56"/></a><br/><a href="https://en.wikipedia.org/wiki/Microservices"><b>Microservices</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://www.scrum.org/"><img src="github-profile-assets/skill-scrum.png" width="56" height="56"/></a><br/><a href="https://www.scrum.org/"><b>Scrum</b></a></td>
+    <td align="center" valign="top" width="25%"><a href="https://agilemanifesto.org/"><img src="github-profile-assets/skill-agile.png" width="56" height="56"/></a><br/><a href="https://agilemanifesto.org/"><b>Agile</b></a></td>
   </tr>
 </table>
 
